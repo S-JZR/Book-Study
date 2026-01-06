@@ -1,4 +1,4 @@
-Ames, R. T. (2010). Sun-Tzu: The Art of Warfare: The First English Translation Incorporating the Recently Discovered Yin-ch'ueh-shan Texts (1st Edition). [Kindle Edition]. Ballantine Books. https://www.amazon.com.au/Sun-Tzu-Translation-Incorporating-Discovered-Yin-chueh-shan-ebook/dp/B003EJDGNC
+Ames, R. T. (2010). Sun-Tzu: The Art of Warfare: The First English Translation Incorporating the Recently Discovered Yin-ch'ueh-shan Texts (1st Edition) [Kindle Edition]. Ballantine Books. https://www.amazon.com.au/Sun-Tzu-Translation-Incorporating-Discovered-Yin-chueh-shan-ebook/dp/B003EJDGNC
 
 > Warfare is the art (tao) of deceit. Therefore, when able, seem to be unable; when ready, seem unready; when nearby, seem far away; and when far away, seem near.
 
