@@ -123,3 +123,55 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 > - enumerated scale (e.g., must have, should have, nice to have);
 
 > Effective requirement prioritization focuses on finding groups of requirements with similar priorities rather than creating overly rigorous measurement scales or debating small differences.
+
+# 2 Software Architecture
+
+## 1.2
+
+> ... concerns evolve over the life cycle of a system and as technologies, policies and other influences evolve.
+
+## 1.3
+
+> A principal use of a software system’s architecture is to give those working with it a shared understanding of the system to guide its design and construction.
+
+## 2
+
+> The architectural design stage addresses the fundamentals of the system as a whole and in relation to its environment ...
+
+## 2.1
+
+> An architecture view represents one or more aspects of an architecture to address one or more concerns [38*] ...
+>
+> a logical view (depicts how the system will satisfy the functional requirements);
+>
+> a process view (depicts how the system will use concurrency);
+>
+> a physical view (depicts how the system is to be deployed and distributed) ...
+>
+> a development view (depicts how the top-level design is broken down into implementation units, the dependencies among those units and how the implementation is to be constructed).
+
+> Separating concerns by view allows interested stakeholders to focus on a few things at a time ...
+
+## 2.3
+
+> Architecture rationale captures why an architectural decision was made. This includes assumptions made before the decision, alternatives considered, and trade-offs or criteria used to select an approach and reject others. Recording rejected decisions and the reasons for their rejection can also be useful. In the future, this could either prevent a software project from making a poor decision — one rejected earlier for forgotten reasons — or allow the development to recognize that relevant conditions have changed and that they can revisit the decision.
+
+## 3.2
+
+> ... fundamentals of the system are decided, but other aspects, such as the internal details of major components are deferred.
+
+> Typical concerns in architectural design ...
+>
+> - Overall architecture styles and computing paradigms
+>
+> - Large-scale refinement of the system into key components
+>
+> - Communication and interaction among components
+>
+> - Allocation of concerns and design responsibilities to components
+>
+> - Component interfaces
+>
+> - Understanding and analysis of scaling and performance properties, resource consumption properties, and reliability properties
+>
+> - Large-scale/system-wide approaches to dominating concerns (such as safety and security, where applicable)
