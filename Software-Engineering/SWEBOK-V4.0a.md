@@ -55,7 +55,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 4.2
 
 > Use case: ![Use Case Example](Use-Case-Example.png)
->
+
 > ... user story ... “As a \<role\> I want \<capability\> so that \<benefit\> ...
 
 ## 4.3
