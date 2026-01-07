@@ -236,7 +236,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 4.6
 
-> Design rationale captures why a design decision was made. This includes prior assumptions made, alternatives considered, and trade-offs and criteria ana lyzed to select one approach and reject others. Although the reasons for decisions are likely to be obvious to the current design team, they can be less obvious to those who modify or maintain the system after deployment. Recording the rationale enhances the software product’s long term maintainability.
+> Design rationale captures why a design decision was made. This includes prior assumptions made, alternatives considered, and trade-offs and criteria analyzed to select one approach and reject others. Although the reasons for decisions are likely to be obvious to the current design team, they can be less obvious to those who modify or maintain the system after deployment. Recording the rationale enhances the software product’s long term maintainability.
 
 ## 5.1
 
