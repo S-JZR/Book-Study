@@ -316,7 +316,8 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 4.5
 
-> ... errors ... handled
+> ... errors ... handled ...
+>
 > Assertions ... returning a neutral value, substituting the next piece of valid data, logging a warning message, returning an error code or shutting down the software ... Exceptions ... detect and process errors or exceptional events.
 
 > Exception-handling policies ... including in the exception message all information that led to the exception, avoiding empty catch blocks, knowing the exceptions the library code throws, perhaps building a centralized exception reporter, and standardizing the program’s use of exceptions.
