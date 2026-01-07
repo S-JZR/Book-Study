@@ -221,9 +221,13 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 4
 
 > Work products of software design capture
+>
 > (1) aspects of the problems to be solved, using the vocabulary of the domain;
+>
 > (2) a solution vocabulary for solving the design problems (see section 1.1 Design Thinking);
+>
 > (3) the major decisions that have been taken; ...
+>
 > (4) explanations of the rationale for each nontrivial decision ...
 
 > A fundamental aspect of software design is communication about the design among designers, and to customers, implementers and other stakeholders ... The communication will vary depending upon the target audience, the level of detail ..., and relevance ...
