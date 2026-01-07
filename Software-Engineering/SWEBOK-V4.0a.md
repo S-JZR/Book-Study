@@ -241,3 +241,88 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 5.1
 
 > ... general strategies useful in the design process include divide-andconquer and stepwise refinement strategies; topdown vs. bottom-up strategies; strategies using heuristics, patterns and pattern languages; and iterative and incremental approaches.
+
+# 4 Software Construction
+
+## 1.1
+
+> - ... reduced complexity is achieved by creating simple and readable code rather than clever code.
+
+## 1.2
+
+> - Anticipating change helps software engineers build extensible software, enhancing a software product without disrupting the underlying structure.
+
+## 1.3
+
+> - Constructing for verification builds software in such a way that faults can be readily found ... Specific techniques ... include following coding standards to support code reviews and unit testing, organizing code to support automated testing, restricting the use of complex or difficult-to-understand language structures, and recording software behaviors with logs.
+
+## 1.4
+
+> - Reuse ... existing assets to solve different problems ... typical assets that are reused include frameworks, libraries, modules, components, source code and commercial off-the-shelf (COTS) assets.
+
+## 1.5
+
+> - Applying external or internal development standards during construction helps achieve a project’s efficiency, quality and cost objectives.
+
+## 2.4
+
+> Unnecessary dependencies should be avoided to improve build efficiency.
+
+## 3.3
+
+> The following considerations apply to the software construction coding activity:
+>
+> - Techniques for creating understandable source code, including naming conventions and source code layout
+>
+> - Use of classes, enumerated types, variables, named constants and other similar entities
+>
+> - Use of control structures
+>
+> - Handling of error conditions — both anticipated and exceptional (e.g., input of bad data)
+>
+> - Prevention of code-level security breaches (e.g., buffer overflows or array index bounds)
+>
+> - Resource use through use of exclusion mechanisms and discipline in accessing serially reusable resources, including threads and database locks
+>
+> - Source code organization into statements, routines, classes, packages or other structures
+>
+> - Code documentation
+>
+> - Code tuning
+
+## 3.6
+
+> ... techniques ... to ensure construction quality ...:
+>
+> - Unit testing and integration testing (see section 3.4, Construction Testing)
+>
+> - Test-first development (see section 6.1.2 in the Software Testing KA)
+>
+> - Use of assertions and defensive programming
+>
+> - Debugging
+>
+> - Inspections
+>
+> - Technical reviews, including security-oriented reviews (see section 2.3 in the Software Quality KA)
+>
+> - Static analysis (see section 2.2.1 of the Software Quality KA)
+
+## 4.4
+
+> Design by contract is a development approach in which preconditions and postconditions are included for each routine ... specifies the semantics of a routine and thus helps clarify its behavior.
+
+> Defensive programming means to protect a routine from being broken by invalid inputs ... checking the values of all the input parameters and deciding how to handle bad inputs ...
+
+## 4.5
+
+> ... errors ... handled
+> Assertions ... returning a neutral value, substituting the next piece of valid data, logging a warning message, returning an error code or shutting down the software ... Exceptions ... detect and process errors or exceptional events.
+
+> Exception-handling policies ... including in the exception message all information that led to the exception, avoiding empty catch blocks, knowing the exceptions the library code throws, perhaps building a centralized exception reporter, and standardizing the program’s use of exceptions.
+
+> ... fault tolerance strategies include backing up and retrying, using auxiliary code and voting algorithms, and replacing an erroneous value with a phony value that will have a benign effect.
+
+## 4.14
+
+> Code efficiency — determined by architecture, detailed design decisions, and data structure and algorithm selection — influences execution speed and size.
