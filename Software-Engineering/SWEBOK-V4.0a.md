@@ -142,13 +142,13 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > An architecture view represents one or more aspects of an architecture to address one or more concerns [38*] ...
 >
-> a logical view (depicts how the system will satisfy the functional requirements);
+> - a logical view (depicts how the system will satisfy the functional requirements);
 >
-> a process view (depicts how the system will use concurrency);
+> - a process view (depicts how the system will use concurrency);
 >
-> a physical view (depicts how the system is to be deployed and distributed) ...
+> - a physical view (depicts how the system is to be deployed and distributed) ...
 >
-> a development view (depicts how the top-level design is broken down into implementation units, the dependencies among those units and how the implementation is to be constructed).
+> - a development view (depicts how the top-level design is broken down into implementation units, the dependencies among those units and how the implementation is to be constructed).
 
 > Separating concerns by view allows interested stakeholders to focus on a few things at a time ...
 
