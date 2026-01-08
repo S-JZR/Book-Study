@@ -327,3 +327,99 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 4.14
 
 > Code efficiency — determined by architecture, detailed design decisions, and data structure and algorithm selection — influences execution speed and size.
+
+# 5 Software Testing
+
+## I
+
+> ... expected behaviors on a finite set of test cases ...
+>
+> Finite: ... Testing always implies a trade-off between limited resources and schedules on the one hand and inherently unlimited test requirements on the other.
+>
+> Selected: ... different selection criteria might yield vastly different degrees of effectiveness.
+>
+> Expected: For each executed test case, it must be possible ... to decide whether the observed SUT outcomes match the expected ones ... observed behavior may be checked against user needs ( ... testing for validation), against a specification (testing for verification), or ... implicit requirements or expectations.
+
+## 1.2.8
+
+> ... "program testing can be used to show the presence of bugs, but never to show their absence” [3].
+
+## 2
+
+> Software testing is usually performed at different levels throughout development and maintenance. Levels can be distinguished based on the object of testing, the target, or on the purpose or objective (of the test level).
+
+## 2.1
+
+> ... target of the test ... unit, integration, system, and acceptance.
+
+## 2.2
+
+> ... objectives of testing ... check that the functional specifications are correctly implemented ... non-functional properties may be tested as well ... test objectives vary with the test target; different purposes are addressed at different levels of testing.
+
+## 2.2.4
+
+> Before the SUT is released, it is sometimes given to a small, selected group of potential users for trial use (alpha testing) and/or to a larger set of representative users (beta testing) ...
+
+## 3
+
+> ... degree of information about the SUT ... black-box techniques ... SUT’s input/ output behavior ... white-box ... techniques ... how the SUT has been designed or coded.
+
+## 3.1
+
+> ... specification-based techniques ... select a few test cases from the input domain that can detect specific categories of faults (also called domain errors). These techniques check whether the SUT can manage inputs within a certain range and return the required output.
+
+## 3.1.2
+
+> Boundary Value Analysis ... Test cases are chosen on or near the boundaries of the input domain of variables, with the underlying rationale that many faults tend to concentrate near the extreme values of inputs.
+>
+> ... robustness testing, wherein test cases are also chosen outside the input domain of variables to test program robustness in processing unexpected or erroneous inputs.
+
+## 3.1.4
+
+> The Combinatorial Test Techniques systematically derive the test cases that cover specific parameters of values or conditions.
+
+## 3.1.5
+
+> Decision tables ... represent logical relationships between conditions (roughly, inputs) and actions (roughly, outputs) ... Test cases are systematically derived by considering every possible combination of conditions and their corresponding resultant actions.
+
+## 3.1.8
+
+> Scenario-Based Testing ... represent the sequence of activities performed by humans and/or software applications ... ensure that both typical and alternate work flows are also tested.
+
+## 3.1.11
+
+> Forcing Exception ... Test cases are specifically conceived for checking whether the SUT can manage a predefined set of exceptions/errors, such as data exception, operation exception, overflow exception, protection exception or underflow exception.
+
+## 3.2
+
+> Structure-Based Test Techniques can be performed at different levels (such as code development, code inspection, or unit testing) and can include static testing (such as code inspection, code walkthrough, and code review), dynamic testing (like statement coverage, branch coverage, and path coverage), or code complexity measurement (e.g., using techniques like cyclomatic complexity [12]).
+
+## 3.2.1
+
+> Control flow testing covers all the statements, branches, decisions, branch conditions, mod ified condition decision coverage (MC/DC), blocks of statements, or specific combinations of statements in a SUT.
+
+## 3.5.2
+
+> Specialized heuristics ... systematically observe system use under controlled conditions to determine how well people can use the system and its interfaces ... include cognitive walkthroughs, claims analysis, field observations, thinking aloud, ... user questionnaires and interviews.
+
+## 3.7
+
+> Combining different testing techniques has always been a well-grounded means to assure the required level of SUT quality.
+
+## 5.2.1
+
+> Test Planning ... levels: ...
+>
+> (1) process management (i.e., identification of test policies, strategies, processes, and procedures),
+>
+> (2) organizational management (i.e., definition of the test phase, test type and test objective), ...
+>
+> (3) design and implementation (i.e., definition of the test environment, the test execution process and monitoring, the completion process, and reporting).
+
+## 5.2.4
+
+> ... everything done during testing should be performed and documented specificall and clearly enough that another person could replicate the results.
+
+## 6.1.2
+
+> ... shift-left testing movement ... testing in the early stages of software development to detect and remove faults as early as possible to increase overall SUT quality and reduce the cost and risks of testing activities.
