@@ -334,11 +334,11 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > ... expected behaviors on a finite set of test cases ...
 >
-> Finite: ... Testing always implies a trade-off between limited resources and schedules on the one hand and inherently unlimited test requirements on the other.
+> - Finite: ... Testing always implies a trade-off between limited resources and schedules on the one hand and inherently unlimited test requirements on the other.
 >
-> Selected: ... different selection criteria might yield vastly different degrees of effectiveness.
+> - Selected: ... different selection criteria might yield vastly different degrees of effectiveness.
 >
-> Expected: For each executed test case, it must be possible ... to decide whether the observed SUT outcomes match the expected ones ... observed behavior may be checked against user needs ( ... testing for validation), against a specification (testing for verification), or ... implicit requirements or expectations.
+> - Expected: For each executed test case, it must be possible ... to decide whether the observed SUT outcomes match the expected ones ... observed behavior may be checked against user needs ( ... testing for validation), against a specification (testing for verification), or ... implicit requirements or expectations.
 
 ## 1.2.8
 
