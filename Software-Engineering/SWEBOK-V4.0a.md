@@ -517,3 +517,27 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 4.2
 
 > Refactoring ... aims to reorganize a program without changing its behavior ... to improve the internal structure and the maintainability of software.
+
+# 8 Software Configuration Management
+
+## 1.3
+
+> ... branch ... set of evolving source file versions [1]. Merging consists of combining different changes to the same file [1] ...
+
+## 2.3
+
+> A software baseline is a formally approved version of a CI (regardless of media type) that is formally designated and fixed at a specific time during the CI’s life cycle ...
+
+## 2.5
+
+> CIs ... Common types of relationships ...
+>
+> Dependencies: CI-1 and CI-2 depend mutually on each other ...
+>
+> Derivation: One CI derives from another, typically in a sequential relationship ... for instance, CI-1 is completed before CI-2 is developed ...
+>
+> Succession: Software items evolve as a software project proceeds ... state of an evolving item ... relationship with itself ...
+
+## 3.2
+
+> Changes may be supported by source code version control tools ... to track and document changes to the source code. These tools provide a single repository for storing the source code, so they can prevent more than one software engineer from editing the same module at the same time, and they record all changes made to the source code. Software engineers check modules out of the repository, make changes, document the changes, and then save the edited modules in the repository. If needed, changes can also be discarded, restoring a previous baseline.
