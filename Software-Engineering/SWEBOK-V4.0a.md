@@ -423,3 +423,25 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 6.1.2
 
 > ... shift-left testing movement ... testing in the early stages of software development to detect and remove faults as early as possible to increase overall SUT quality and reduce the cost and risks of testing activities.
+
+# 6 Software Engineering Operations
+
+## 2.2
+
+> The overall software process requires the use of different environments at different stages ... the development environment, the testing or quality assurance (QA) environment, the preproduction environment, and the production environment.
+>
+> ... all environments need to be built from the same code source (single source of truth) to ensure that all the environments are synchronized with the production environment in which the software is released.
+
+## 3.1
+
+> ... execute software verification as early as possible, using test-driven development (TDD) ...
+
+## 3.2
+
+> Environment-based release strategies use a staging environment to support the release of a new version of an application.
+
+> Application-based release strategies are based on the use of toggles (e.g., feature toggles) that make it possible to enable or disable specific sections of the code (e.g., a feature) using configuration parameters.
+
+## 6
+
+> ... “[t]he biggest risk to any software effort is that you end up building something that isn’t useful. The earlier and more frequently you get working software in front of real users, the quicker you get feedback to find out how valuable it really is.”
