@@ -445,3 +445,75 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 6
 
 > ... “[t]he biggest risk to any software effort is that you end up building something that isn’t useful. The earlier and more frequently you get working software in front of real users, the quicker you get feedback to find out how valuable it really is.”
+
+# 7 Software Maintenance
+
+## 1.3
+
+> Software maintenance is typically performed to do the following:
+>
+> - Correct faults and latent defects
+>
+> - Improve the design or performance of operational software
+>
+> - Implement enhancements
+>
+> - Help users understand the software’s functionality
+>
+> - Adapt to changes in interfaced systems or infrastructure
+>
+> - Prevent security threats
+>
+> - Remediate technical obsolescence of system or software elements
+>
+> - Retire the software
+
+## 1.4
+
+> ... the relative cost of error fixing increases in later phases of the software life cycle. Maintenance also uses a significant portion of the total financial resources attributed throughout the life of a software ... most software maintenance — over 80% — is used for enhancing and adapting the software [3].
+
+## 1.5
+
+> ... eight laws of software evolution:
+>
+> - Continuing Change — Software must be continually adapted, or it becomes progressively less satisfactory.
+>
+> - Increasing Complexity — As software evolves, its complexity increases unless work is done to maintain or reduce that complexity.
+>
+> - Self-Regulation — The program evolution process is self regulating with close to normal distribution of measures of product and process attributes.
+>
+> - Invariant Work Rate — The average effective global activity rate in an evolving software package is invariant over the product’s lifetime.
+>
+> - Conservation of Familiarity — As software evolves, all associated with it (e.g., developers, sales personnel and users) must maintain mastery of its content and behavior to achieve satisfactory evolution. Excessive growth diminishes that mastery ...
+>
+> - Continuing Growth — Functional content of a program must be continually increased to maintain user satisfaction over its lifetime.
+>
+> - Declining Quality — The quality of software will appear to be declining unless it is rigorously maintained and adapted to changes in the operational environment.
+>
+> - Feedback System — Software evolution processes constitute multilevel, multiloop, multi-agent feedback systems and must be treated as such to achieve significant improvement over any reasonable base.
+
+## 2.1.1
+
+> ... a significant portion of total maintenance effort is devoted to understanding the software to be modified ... Comprehension is more difficult in text-oriented representation (e.g., in source code), where it is often difficult to trace the evolution of software through its releases or versions if changes are not documented and the developers are not available to explain them.
+>
+> Various techniques can help engineers understand existing software, such as visualization and reverse engineering using tool-based graphical representations of the code.
+
+## 2.1.4
+
+> Technical debt often accumulates when the need to quickly address corrective, emergency, and additive maintenance tasks, constrained by limited time and understanding of the software, leads to compromises ... will take additional time and effort to address during maintenance.
+
+> ... when addressing technical debt:
+>
+> 1. Code quality versus relevance: Not all technical debt is urgent.
+>
+> 2. Alignment with organizational objectives: The software architecture should reflect the organization’s goals.
+>
+> 3. Process loss: Ensure complementary skills of software engineers involved.
+
+## 2.3.1
+
+> ... improving maintainability, including: ensuring legibility, pursuing structured code, reducing code complexity, provide accurate code comments, using identation and white space, eliminating language weaknesses and compiler dependent constructs, facilitate error-tracing, ensure traceability of code to design, conduct inspections and code reviews.
+
+## 4.2
+
+> Refactoring ... aims to reorganize a program without changing its behavior ... to improve the internal structure and the maintainability of software.
