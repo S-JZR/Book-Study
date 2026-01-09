@@ -619,3 +619,17 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 5.2
 
 > A project, phase or iteration retrospective analysis should be undertaken so that issues, problems, risks and opportunities encountered can be analyzed. (See Topic 4, Review and Evaluation.) Lessons learned should be drawn from the project and fed into organizational learning and improvement endeavors.
+
+# 10 Software Engineering Process
+
+## 2.5
+
+> The waterfall model ... implements a very strict process, in which one phase cannot be started until the previous one is finished ... predictive life cycle ... single software delivery at the end of the project after months or years of working.
+
+> The Agile manifesto ... open to change — requirements could be modified at any stage of the development process if users’ needs changed ... Communication and mutual trust between team/customer were essential ... [incremental life cycle]
+
+> DevOps, defined as a “set of principles and practices which enable better communication and collaboration between relevant stakeholders for the purpose of specifying, developing, and operating software and systems products and services, and continuous improvements in all aspects of the life cycle” ... provide more releases more frequently ... [continuous development]
+
+## 2.9
+
+> ... working with large processes without producing any deliverables along the way increases uncertainty.
