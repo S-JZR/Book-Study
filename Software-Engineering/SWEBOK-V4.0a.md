@@ -608,9 +608,9 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > ... quality attributes that are important for software users (e.g., efficiency, safety, security, reliability, availability) and ... software developers and maintainers (e.g., maintainability is important to those who provide sustainment services)
 
-## 3.6
+## 4
 
-> Progress to date should be reported at specified and agreed-upon times both within the organization (e.g., to a project steering committee) and to external stakeholders (e.g., clients or users). Reports should focus on the information needs of the target audience as opposed to the detailed status reporting within the project team.
+> At prespecified times and as needed, overall progress toward the stated objectives and satisfaction of stakeholder (user and customer) requirements should be evaluated. Similarly, assessments of the effectiveness of the software process, the personnel involved, and the tools and methods used should also be undertaken regularly and as circumstances demand.
 
 ## 4.1
 
