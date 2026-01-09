@@ -783,3 +783,33 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 > 9. Use effective quality assurance techniques.
 >
 > 10. Adopt a software construction security standard.
+
+# 14 Software Engineering Professional Practice
+
+## 1
+
+> A software engineer displays professionalism notably by adhering to a code of ethics and professional conduct and to standards and practices established by the engineer’s professional community.
+
+## 1.2
+
+> Violations may be acts of commission, such as concealing inadequate work, disclosing confidential information, falsifying information, or misrepresenting abilities. They may also occur through omission, including failure to disclose risks or provide important information, failure to give proper credit or acknowledge references, and failure to represent client interests.
+
+## 1.6
+
+> Employers derive commercial advantage from intellectual property (IP), so they strive to protect that property from disclosure. Therefore, software engineers are often required to sign nondisclosure agreements (NDA) or IP agreements as a precondition to working.
+
+## 1.7.4
+
+> Most legislations give exclusive rights of an original work to its creator, usually for a limited time, enacted as copyright. Copyrights protect the way an idea is presented — not the idea itself.
+
+## 1.7.7
+
+> Software engineers must operate within local, national and international legal frameworks.
+
+## 1.8
+
+> Providing clear, thorough, and accurate documentation is the responsibility of each software engineer.
+
+## 2.1
+
+> Team members facilitate this atmosphere by being intellectually honest, using group thinking, admitting ignorance, and acknowledging mistakes. They share responsibility, rewards, and workload fairly. They communicate clearly and directly to one another and in documents and source code so information is accessible to everyone. Peer reviews about work products are framed in a constructive and nonpersonal way ... demonstrate respect for one another and their leader.
