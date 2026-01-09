@@ -566,7 +566,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > The deliverables, and hence the phases, are part of a generally sequential process designed to ensure proper control of the project and to attain the desired product or service, which is the project’s objective.
 
-> ... project ... phases
+> ... project ... phases ...
 >
 > - Initiation and Scope Definition, which deals with the decision to embark on a software engineering project
 >
