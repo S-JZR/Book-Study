@@ -541,3 +541,81 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 3.2
 
 > Changes may be supported by source code version control tools ... to track and document changes to the source code. These tools provide a single repository for storing the source code, so they can prevent more than one software engineer from editing the same module at the same time, and they record all changes made to the source code. Software engineers check modules out of the repository, make changes, document the changes, and then save the edited modules in the repository. If needed, changes can also be discarded, restoring a previous baseline.
+
+# 9 Software Engineering Management
+
+## I
+
+> Other issues can complicate effective management ...
+>
+> - Clients often do not know what is needed or what is feasible.
+>
+> - Increased understanding and changing conditions will likely generate new or changed software requirements.
+>
+> - Clients often do not appreciate the complexities inherent in software engineering, particularly regarding the impact of changing requirements.
+>
+> - As a result of changing requirements and software malleability, software is often built iteratively rather than as a linear sequence of phases.
+>
+>   ...
+>
+> - Typically, the underlying technology has a high rate of change.
+>
+>   ...
+>
+> - A significant number of software projects failed due to human issues ...
+>
+> - Software rework to remove faults and respond to change.
+>
+> - Speed and cycle time are important metrics for managing software. Software capabilities are often delivered at increasing speed to satisfy business and mission needs [13].
+
+> The deliverables, and hence the phases, are part of a generally sequential process designed to ensure proper control of the project and to attain the desired product or service, which is the project’s objective.
+
+> ... project ... phases
+>
+> - Initiation and Scope Definition, which deals with the decision to embark on a software engineering project
+>
+> - Software Project Planning, which addresses the activities undertaken to prepare for a successful software engineering project from the management perspective
+>
+> - Software Project Enactment, which deals with generally accepted SEM activities that occur during a software engineering project’s execution
+>
+> - Review and Evaluation, which deals with ensuring that technical, schedule, cost and quality engineering activities are satisfactory
+>
+> - Closure, which addresses the activities accomplished to complete a project
+
+## 1.2
+
+> ... feasibility analysis is to develop a clear description of project objectives and to evaluate alternative approaches to determine whether the proposed project solution is the best approach, given the constraints of technology, resources, finances and changes to ethical, environmental, and socio-technical considerations. An initial project and product scope statement, project deliverables, project duration constraints, and an estimation of resources needed should be prepared.
+
+> ... work breakdown structure (WBS) and context diagram ... Breaking work into smaller tasks is a common productivity technique that makes the work more manageable and approachable.
+
+## 2.3
+
+> The estimation of effort, schedule and cost is an iterative activity that should be negotiated and revised among affected stakeholders until consensus is reached on resources and time available for project completion.
+
+> ... constantly monitor stakeholder requirements and changes as they evolve to analyze their impact on the project cost and schedule.
+
+## 2.4
+
+> Equipment, facilities and people should be allocated to the identified tasks, including allocating responsibilities for completing various project elements and the overall project.
+
+## 2.5
+
+> Risk is effect of uncertainty on objectives that has negative (threats) or positive (opportunities) consequences on objectives.
+
+> ... risk register ... repository for all risks identified and for additional information about each risk [2].
+
+## 2.6
+
+> ... quality attributes that are important for software users (e.g., efficiency, safety, security, reliability, availability) and ... software developers and maintainers (e.g., maintainability is important to those who provide sustainment services)
+
+## 3.6
+
+> Progress to date should be reported at specified and agreed-upon times both within the organization (e.g., to a project steering committee) and to external stakeholders (e.g., clients or users). Reports should focus on the information needs of the target audience as opposed to the detailed status reporting within the project team.
+
+## 4.1
+
+> ... Progress should be assessed upon achieving a major project milestone ... or ... a product increment.
+
+## 5.2
+
+> A project, phase or iteration retrospective analysis should be undertaken so that issues, problems, risks and opportunities encountered can be analyzed. (See Topic 4, Review and Evaluation.) Lessons learned should be drawn from the project and fed into organizational learning and improvement endeavors.
