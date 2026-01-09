@@ -232,8 +232,6 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > A fundamental aspect of software design is communication about the design among designers, and to customers, implementers and other stakeholders ... The communication will vary depending upon the target audience, the level of detail ..., and relevance ...
 
-> The Unified Modeling Language (UML) is a widely used family of notations addressing both structural and behavioral concerns ...
-
 ## 4.6
 
 > Design rationale captures why a design decision was made. This includes prior assumptions made, alternatives considered, and trade-offs and criteria analyzed to select one approach and reject others. Although the reasons for decisions are likely to be obvious to the current design team, they can be less obvious to those who modify or maintain the system after deployment. Recording the rationale enhances the software product’s long term maintainability.
@@ -309,8 +307,6 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 > - Static analysis (see section 2.2.1 of the Software Quality KA)
 
 ## 4.4
-
-> Design by contract is a development approach in which preconditions and postconditions are included for each routine ... specifies the semantics of a routine and thus helps clarify its behavior.
 
 > Defensive programming means to protect a routine from being broken by invalid inputs ... checking the values of all the input parameters and deciding how to handle bad inputs ...
 
@@ -633,3 +629,41 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 2.9
 
 > ... working with large processes without producing any deliverables along the way increases uncertainty.
+
+# 11 Software Engineering Models and Methods
+
+## 1.1
+
+> ... general principles guide such modeling activities:
+>
+> - Model the essentials: ... represent ... only those aspects or features that pose specific questions, abstracting away any nonessential information ...
+>
+> - Provide perspective: ... Organizing information into views focuses ... on specific concerns relevant to that view using the appropriate notation, vocabulary, methods and tools.
+>
+> - Enable effective communications: ... uses the application domain vocabulary of the software, a modeling language and semantic expression ...
+
+> A model is an abstraction or simplification of a system ... no single abstraction completely describes a software component ...
+
+## 1.2
+
+> Properties of models ...
+>
+> - Completeness ... all requirements have been implemented and verified ...
+>
+> - Consistency ... contains no conflicting requirements, assertions, constraints, functions or component descriptions
+>
+> - Correctness ... satisfies its requirements and design specifications and is free of defects
+
+## 1.4
+
+> ... modeling functions or methods ... typically starts with assumptions about the software’s state ...
+>
+> - Preconditions are conditions that must be satisfied before execution of the function or method ...
+>
+> - Postconditions are conditions guaranteed to be true after the function or method has executed successfully ...
+>
+> - Invariants are conditions within the operational environment that persist (... do not change) before and after execution ...
+
+## 2
+
+> The unified modeling language (UML) recognizes a rich collection of modeling diagrams ... structural models and behavioral models.
