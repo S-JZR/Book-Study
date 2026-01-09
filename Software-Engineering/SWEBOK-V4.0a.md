@@ -721,3 +721,65 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 3.4.5
 
 > Reviews are valuable because they can identify issues early in development or even before a component is designed.
+
+# 13 Software Security
+
+## I
+
+> ... it is much better to design security into software than to patch it in after the software is developed.
+
+## 1.2
+
+> Information security preserves ...
+>
+> - ... Confidentiality ... ensuring that information is not disclosed to unauthorized individuals, entities or processes.
+>
+> - Integrity ... accuracy and completeness.
+>
+> - Availability ... being accessible and usable on demand by an authorized entity
+
+## 1.3
+
+> ... cybersecurity addresses security issues in cyberspace ...
+>
+> - Social engineering attacks
+>
+> - Hacking
+>
+> - Malicious software (malware)
+>
+> - Other potentially unwanted software [12]
+
+## 4.4
+
+> Coding of security into the software ...
+>
+> - Structure the process so that all sections requiring extra privileges are modules. The modules should be as small as possible and perform only the tasks that require those privileges.
+>
+> - Ensure that any assumptions in the program are validated. If this is not possible, document them for the installers and maintainers so they know the assumptions attackers will try to invalidate.
+>
+> - Ensure that the program does not share objects in memory with any other program.
+>
+> - Check every function’s error status. Do not recover unless neither the error’s cause nor its effects affect any security considerations. The program should restore the state of the software to the state it had before the process began and then terminate.
+
+> ... top 10 software security practices:
+>
+> 1. Validate input.
+>
+> 2. Heed compiler warnings.
+>
+> 3. Architect and design for security policies.
+>
+> 4. Keep it simple.
+>
+> 5. Default deny.
+>
+> 6. Adhere to the principle of least privilege.
+>
+> 7. Sanitize data sent to other software.
+>
+> 8. Practice defense in depth.
+>
+> 9. Use effective quality assurance techniques.
+>
+> 10. Adopt a software construction security standard.
