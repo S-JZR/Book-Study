@@ -667,3 +667,57 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 2
 
 > The unified modeling language (UML) recognizes a rich collection of modeling diagrams ... structural models and behavioral models.
+
+# 12 Software Quality
+
+## 1
+
+> ... main challenges ... to ensure quality ...
+>
+> - Difficulty in clearly defining requirements;
+>
+> - Maintaining effective communication with the client/user;
+>
+> - Deviations from specifications;
+>
+> - Architecture and design errors;
+>
+> - Coding errors;
+>
+> - Noncompliance with current processes/procedures;
+>
+> - Inadequate work product reviews and tests;
+>
+> - Documentation errors.
+
+## 1.4
+
+> Three complementary techniques for reducing failure risk are avoidance, detection and removal, and damage limitation.
+
+## 1.4.1
+
+> System failures affect many people; users often reject systems that are unreliable, unsafe, or insecure; system failure costs could be important; and undependable systems might cause information loss.
+
+## 2.1
+
+> ... a product’s quality is directly linked to the quality of the process used to create it.
+
+## 2.3.1
+
+> Three widely used software quality measurements are error density (number of errors per unit size of documents/software), defect density (number of defects found divided by the size of the software), and failure rate (mean time to failure) ... to estimate the probability of future failures and assist in decisions about when to stop testing.
+
+## 3.4.1
+
+> Static analysis techniques analyze a work product’s content and structure (including requirements, interface specifications designs, and models) without executing the software. The only way to detect non-executable code is through static analysis ...
+
+## 3.4.2
+
+> Dynamic analysis techniques involve executing or simulating the software code, looking for errors and defects.
+
+## 3.4.3
+
+> Formal analysis techniques ... are “mathematical approaches ... where you define a formal model of the software ... then formally analyze this model to search for errors and inconsistencies” [7*, c10s5].
+
+## 3.4.5
+
+> Reviews are valuable because they can identify issues early in development or even before a component is designed.
