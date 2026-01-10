@@ -418,7 +418,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 6.1.2
 
-> ... shift-left testing movement ... testing in the early stages of software development to detect and remove faults as early as possible to increase overall SUT quality and reduce the cost and risks of testing activities.
+> ... shift-left testing movement ... testing in the early stages of software development to detect and remove faults as early as possible ...
 
 # 6 Software Engineering Operations
 
@@ -813,3 +813,83 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 2.1
 
 > Team members facilitate this atmosphere by being intellectually honest, using group thinking, admitting ignorance, and acknowledging mistakes. They share responsibility, rewards, and workload fairly. They communicate clearly and directly to one another and in documents and source code so information is accessible to everyone. Peer reviews about work products are framed in a constructive and nonpersonal way ... demonstrate respect for one another and their leader.
+
+# 15 Software Engineering Economics
+
+## I
+
+> “Is it in the best interest of this enterprise to invest its limited resources in this technical endeavor, or would the same investment produce a higher return elsewhere?"
+
+> In for-profit organizations this means achieving a tangible return on the software investment. In nonprofit organizations, this means achieving the maximum benefit for the least cost.
+
+> ... all following questions involve an economic perspective:
+>
+> - can a client organization benefit from a digital transformation?
+>
+> - does a project proposal (a tender) align with a client’s business goals?
+>
+> - should certain software functionality be bought or built?
+>
+> - should certain requirements be included in scope or not?
+>
+> - what is the most efficient, cost-effective architecture and design?
+>
+> ...
+>
+> - how much risk-based testing is enough?
+>
+> - is it better to refactor, redevelop or just live with code that has high technical debt?
+>
+> - is it better to focus maintenance on adding new functionality or on fixing known defects?
+>
+> - would the value of early delivery of partial functionality gained by using an Agile process outweigh the overhead of rework and continuous testing inherent in iterative approaches?
+
+> Value does not always derive from money alone; value can also derive from “unquantifiables” like corporate citizenship, employee well-being, environmental friendliness, customer loyalty and so on.
+
+## 1.6
+
+> ... do-nothing alternative. Sometimes the best course of action is not to carry out any of the proposals being considered.
+
+## 1.8
+
+> good business model ...
+>
+> - Who is the customer?
+>
+> - What does the customer value?
+>
+> - How do we make money?
+>
+> - What is the underlying economic logic that explains how we can deliver value to customers at an appropriate cost?
+
+## 8
+
+> ... All estimates are inherently uncertain ... estimates need not be perfect; they need only to be good enough to lead the decision-maker to make the right decision.
+
+## 8.3
+
+> ... bottom-up estimation ...
+>
+> 1. Break the thing to be estimated into successively smaller pieces until the smallest pieces can be reasonably estimated.
+>
+> 2. Estimate those smallest pieces.
+>
+> 3. Add up the estimates for the smallest pieces to build the estimate for the whole.
+>
+> 4. If the estimates for the smallest pieces don’t include allowances for significant cross-cutting factors, then find a way to address those factors ...
+
+## 8.5
+
+> When the consequences of a wrong decision are small, it can be acceptable to base the decision on a single estimate from a single estimator using a single estimation technique.
+>
+> ... when the consequences of a wrong decision are significant, investing extra effort in developing more than one estimate can be worthwhile.
+
+## 10.6
+
+> ... the cost of rework is higher than the cost of all other project activities combined ...
+>
+> a) identify defects earlier so those defects can be fixed at lower resource cost,
+>
+> b) reduce the degree of defect cost growth ...
+>
+> c) prevent defects in the first place ...
