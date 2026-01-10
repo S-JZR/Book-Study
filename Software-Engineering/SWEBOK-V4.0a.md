@@ -20,7 +20,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 2.1
 
-> Many projects benefit from performing a stakeholder analysis to identify as many important stakeholder classes as possible. This reduces the possibility that the requirements are biased toward better-represented stake holders and away from less well-represented stakeholders.
+> Many projects benefit from performing a stakeholder analysis to identify as many important stakeholder classes as possible. This reduces the possibility that the requirements are biased toward better-represented stakeholders and away from less well-represented stakeholders.
 
 ## 2.2
 
@@ -238,7 +238,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 5.1
 
-> ... general strategies useful in the design process include divide-andconquer and stepwise refinement strategies; topdown vs. bottom-up strategies; strategies using heuristics, patterns and pattern languages; and iterative and incremental approaches.
+> ... general strategies useful in the design process include divide-andconquer [sic] and stepwise refinement strategies; topdown [sic] vs. bottom-up strategies; strategies using heuristics, patterns and pattern languages; and iterative and incremental approaches.
 
 # 4 Software Construction
 
@@ -392,7 +392,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 3.2.1
 
-> Control flow testing covers all the statements, branches, decisions, branch conditions, mod ified condition decision coverage (MC/DC), blocks of statements, or specific combinations of statements in a SUT.
+> Control flow testing covers all the statements, branches, decisions, branch conditions, modified condition decision coverage (MC/DC), blocks of statements, or specific combinations of statements in a SUT.
 
 ## 3.5.2
 
@@ -414,7 +414,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 5.2.4
 
-> ... everything done during testing should be performed and documented specificall and clearly enough that another person could replicate the results.
+> ... everything done during testing should be performed and documented specifically and clearly enough that another person could replicate the results.
 
 ## 6.1.2
 
@@ -508,7 +508,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 2.3.1
 
-> ... improving maintainability, including: ensuring legibility, pursuing structured code, reducing code complexity, provide accurate code comments, using identation and white space, eliminating language weaknesses and compiler dependent constructs, facilitate error-tracing, ensure traceability of code to design, conduct inspections and code reviews.
+> ... improving maintainability, including: ensuring legibility, pursuing structured code, reducing code complexity, provide accurate code comments, using identation [sic] and white space, eliminating language weaknesses and compiler dependent constructs, facilitate error-tracing, ensure traceability of code to design, conduct inspections and code reviews.
 
 ## 4.2
 
@@ -988,7 +988,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > ... precautionary measures ... changing default passwords, changing passwords frequently, restricting access to authorized users, encrypting data in the system and on the network, and installing multiple levels of firewalls.
 
-> ... users must protect and hide (not publicize) service set identifie (SSID), use effective antivirus software, and update and upgrade it regularly; use a virtual private networks (VPN), use file-sharing or system-sharing access with care, and disable access after use; and update or upgrade the access point or access controller, gateway and other devices with security patches when they become available.
+> ... users must protect and hide (not publicize) service set identifier (SSID), use effective antivirus software, and update and upgrade it regularly; use a virtual private networks (VPN), use file-sharing or system-sharing access with care, and disable access after use; and update or upgrade the access point or access controller, gateway and other devices with security patches when they become available.
 
 ## 8.1
 
