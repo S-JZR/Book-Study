@@ -993,3 +993,55 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 ## 8.1
 
 > Users expect software to be robust ... have an intuitive graphical user interface (GUI) ... secure ... provide fast, consistent responses ... self-explanatory and enable self-learning ... The messages, whether communicating results or errors, should be clear and complete ... regain its original state if there are errors ... allow users to interrupt during the processing and undo the operation, wherever possible.
+
+# 18 Engineering Foundations
+
+## I
+
+> The engineering process ...
+>
+> - Understand the real problem ... the problem that needs to be solved is not always the problem ... Use root cause analysis techniques ... to discover the underlying problem needing a solution.
+>
+> - Define the selection criteria ... consider various factors ... identify all relevant selection criteria.
+>
+> - Identify all reasonable, technically feasible solutions — The best solution is rarely the first solution that comes to mind ... consider multiple technically feasible solutions to ensure that the optimal solution is among the set considered.
+>
+> - Evaluate each solution against the selection criteria ...
+>
+> - Select ... which technically feasible solution best satisfies the selection criteria.
+>
+> - Monitor the performance of the selected solution ... evaluate ... real-world performance and, if necessary (and possible), decide whether one of the other alternatives might be better.
+
+## 2
+
+> ... implicit constraints (such as the physical properties of materials or the laws of physics) sometimes restrict the set of feasible solutions for a given problem.
+
+## 2.2
+
+> ... design problems tend to be open-ended and vaguely defined, and there are usually several ways to solve the same problem.
+
+> Design is a wicked problem ... must be solved once to define it clearly and solved again to create a solution that works.
+
+## 4.1
+
+> A designed or controlled experiment tests a hypothesis by manipulating one or more independent variables to measure their effect on one or more dependent variables. A precondition ... is ... a clear hypothesis ... Designed experiments ... determine precisely how the variables are related and, specifically, whether a cause-effect relationship exists between them ...
+
+## 4.2
+
+> An observational or case study is an empirical inquiry that makes observations of processes or phenomena within a real-world context ... most useful when it focuses on how and why questions, on when the behavior of those involved cannot be manipulated, and on when contextual conditions are relevant and the boundaries between the phenomena and context are unclear.
+
+## 4.3
+
+> Retrospective studies involve the analysis of historical data ... to find relationships between variables, to predict future events or to identify trends. One limitation is that the quality of the analysis depends on the quality of the archived data, and historical data may be incomplete, inconsistently measured or incorrect.
+
+## 9.1
+
+> Root Cause Analysis Techniques ...
+>
+> - Change analysis compares situations resulting in undesirable outcomes with similar situations that went well ...
+>
+> - The 5-whys technique ...
+>
+> - Cause-and-effect diagrams ...
+>
+> ...
