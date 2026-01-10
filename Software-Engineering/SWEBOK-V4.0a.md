@@ -893,3 +893,103 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 > b) reduce the degree of defect cost growth ...
 >
 > c) prevent defects in the first place ...
+
+# 16 Computing Foundations
+
+## 3
+
+> Data structures is about representing different types of data effectively, performing various operations on the data proficiently, and storing and retrieving data efficiently.
+
+## 3.1
+
+> ... data ... grouped ...
+>
+> Basic or primitive data types include character, integer, float or real, Boolean, and pointer data.
+>
+> Compound data types are made of multiple basic or primitive, or even multiple compound data types ...
+>
+> ... abstract data type (ADT) is defined by its behavior (semantics) from the user’s perspective, specifically from the point of possible values and operations.
+
+> ... further grouped ...
+>
+> Linear data types include one-dimensional and multidimensional arrays, strings, linked lists ..., stacks, queues, and hash tables.
+>
+> Hierarchical or nonlinear data types include trees, ... , heaps, binary heaps and graphs.
+
+## 3.2
+
+> Basic operations performed on data structures include create, read, update and delete (CRUD).
+>
+> ... traversing data sets to identify specific data items before performing the operation ... insertion or deletion of items in a data set or database ... sorting the data items in a specific order, searching and locating a data item, and merging two or more data sets into one set ...
+
+## 3.4
+
+> The complexity of an algorithm is a measure of the resources it consumes (computing power or memory) for a specific problem and given data set.
+>
+> Choosing the right data structures and operations on data structures and ensuring optimal implementation of the algorithm also effect the algorithm’s complexity.
+
+## 3.5
+
+> Asymptotic Notations:
+> ![alt text](Asymptotic-Notations-Of-Algorithms.png)
+
+> Often, the complexity of an algorithm is denoted by the resources consumed in the worst-case scenario.
+
+> Learning the computation of the listed notations for different sets of input data (e.g., sorted, unsorted, and sorted in reverse order) is important.
+
+> Algorithmic Complexities:
+> ![alt text](Algorithmic-Complexities.png)
+
+## 3.6
+
+> Common types of algorithms: Brute force algorithm, Recursive algorithm, Divide & Conquer algorithm, Dynamic programming algorithms, Greedy algorithm, Backtracking algorithms, Randomized algorithms ...
+
+## 4.2
+
+> In static typing, the type is fixed; it is defined during program creation and checked at compilation time ...
+>
+> In dynamic typing, the type of a variable can change at runtime depending on the context and hence is checked at runtime ...
+
+## 4.6
+
+> types of errors ...
+>
+> Syntax errors are deviations from the standard format specified by programming languages ... identified by compilers ...
+>
+> Runtime errors surface when a program runs into an unexpected condition or situation ... The programs must be thoroughly tested for various types of inputs (valid data sets, invalid data sets and boundary value data sets) and conditions to identify these errors ...
+>
+> Logical errors are slipups in implementing the logic to achieve the desired output ... must be traced and resolved with various data for each functionality ... debuggers help trace each variable or data item and support setting various types of break points.
+
+## 4.7
+
+> An estimated 82% of vulnerabilities are caused by clashes between programming styles ... quality-conscious companies often have defined tools, standards and guidelines, which set rules and recommendations for their programmers and testers to follow.
+
+## 6.2
+
+> ... data models used to distinguish databases ...
+>
+> - The ACID (atomicity, consistency, isolation, durability) model provides for high data consistency ...
+>
+> - The BASE (basically available, soft state, eventual consistency) model provides flexible methods to process data, which suits NoSQL database types.
+
+## 6.4
+
+> ... relational ... database normalizations ...
+>
+> ... (1 NF): Removes duplication or redundancy. Each table cell has a single value (creates more entries and tables). Each row has unique values. Related data is identified with a unique key.
+>
+> ... (2 NF): ... no partial dependency (creates separate tables with records referenced by multiple records or tables).
+>
+> ... (3 NF): ... Transitive dependencies are removed.
+>
+> ...
+
+## 7.9
+
+> ... precautionary measures ... changing default passwords, changing passwords frequently, restricting access to authorized users, encrypting data in the system and on the network, and installing multiple levels of firewalls.
+
+> ... users must protect and hide (not publicize) service set identifie (SSID), use effective antivirus software, and update and upgrade it regularly; use a virtual private networks (VPN), use file-sharing or system-sharing access with care, and disable access after use; and update or upgrade the access point or access controller, gateway and other devices with security patches when they become available.
+
+## 8.1
+
+> Users expect software to be robust ... have an intuitive graphical user interface (GUI) ... secure ... provide fast, consistent responses ... self-explanatory and enable self-learning ... The messages, whether communicating results or errors, should be clear and complete ... regain its original state if there are errors ... allow users to interrupt during the processing and undo the operation, wherever possible.
