@@ -84,9 +84,9 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 >
 > - acceptance criteria;
 >
-> - priority (see Requirements Prioritization later in this KA);
+> - priority ...
 >
-> - stability (see Requirements Stability and Volatility later in this KA);
+> - stability ...
 >
 > - whether the requirement is common or a variant for product family development (e.g., [20]);
 >
@@ -224,7 +224,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 >
 > (1) aspects of the problems to be solved, using the vocabulary of the domain;
 >
-> (2) a solution vocabulary for solving the design problems (see section 1.1 Design Thinking);
+> (2) a solution vocabulary for solving the design problems ...
 >
 > (3) the major decisions that have been taken; ...
 >
@@ -292,9 +292,9 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 > ... techniques ... to ensure construction quality ...:
 >
-> - Unit testing and integration testing (see section 3.4, Construction Testing)
+> - Unit testing and integration testing ...
 >
-> - Test-first development (see section 6.1.2 in the Software Testing KA)
+> - Test-first development ...
 >
 > - Use of assertions and defensive programming
 >
@@ -302,9 +302,9 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 >
 > - Inspections
 >
-> - Technical reviews, including security-oriented reviews (see section 2.3 in the Software Quality KA)
+> - Technical reviews, including security-oriented reviews ...
 >
-> - Static analysis (see section 2.2.1 of the Software Quality KA)
+> - Static analysis ...
 
 ## 4.4
 
@@ -614,7 +614,7 @@ Washizaki, H. (Ed.). (2025). SWEBOK: Guide to the software engineering body of k
 
 ## 5.2
 
-> A project, phase or iteration retrospective analysis should be undertaken so that issues, problems, risks and opportunities encountered can be analyzed. (See Topic 4, Review and Evaluation.) Lessons learned should be drawn from the project and fed into organizational learning and improvement endeavors.
+> A project, phase or iteration retrospective analysis should be undertaken so that issues, problems, risks and opportunities encountered can be analyzed ... Lessons learned should be drawn from the project and fed into organizational learning and improvement endeavors.
 
 # 10 Software Engineering Process
 
